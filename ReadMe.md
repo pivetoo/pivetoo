@@ -1,7 +1,7 @@
 
-# 💻 Tech Stack:
-Cursando ADS e aprendendo com cursos
-Estudante a procura de um Estagio
+# 💻 Back-End:
+- Cursando ADS e aprendendo Java
+- Estudante a procura de um Estagio
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 # 📊 GitHub Stats:
