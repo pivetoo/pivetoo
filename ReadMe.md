@@ -1,5 +1,5 @@
 
-# 💻 Back-End:
+# 💻 Full-Stack:
 - Cursando ADS e estudando JavaScript
 - A procura de um estágio
 
