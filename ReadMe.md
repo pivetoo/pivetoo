@@ -1,6 +1,6 @@
 
 # 💻 Back-End:
-- Cursando ADS e estudando PHP|SQL|Laravel
+- Cursando ADS e estudando PHP| SQL| Laravel
 - A procura de um estágio
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
