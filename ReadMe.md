@@ -1,9 +1,8 @@
 
 # 💻 Back-End:
-- Cursando ADS e estudando PHP | SQL | Laravel
-- A procura de um estágio
+- Cursando ADS e estudando PHP | MySQL | Laravel
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pivetoo&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pivetoo&theme=monokai&hide_border=true)<br/>
